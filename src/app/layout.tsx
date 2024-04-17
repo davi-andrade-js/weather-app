@@ -15,7 +15,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <title>Wheater Whisperer</title>
+        <title>Weather Whisperer</title>
         <link rel="icon" href="icon.png"></link>
       </head>
       <QueryClientProvider client={queryClient}>
